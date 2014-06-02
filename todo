@@ -1,0 +1,4 @@
+#如下几个部分需要测试
+1.Ways to test the Cluster
+2.Monitoring commit latency
+3.Using sysbench to generate load
